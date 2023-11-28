@@ -1,0 +1,19 @@
+/* Add Kenyan flag colors */
+body {
+    background-color: #000;
+}
+
+.login-container {
+    background-color: #000;
+    color: #fff;
+}
+
+.login-container .form-control {
+    background-color: #000;
+    color: #fff;
+}
+
+.login-container button {
+    background-color: #0f0;
+    color: #000;
+}
